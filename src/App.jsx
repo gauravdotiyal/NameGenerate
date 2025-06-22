@@ -51,6 +51,7 @@ function App() {
   return (
     <div className="app">
       <h1>Name Insights Generator</h1>
+      <h1>Made by Gaurav Dotiyal Using Gemini API</h1>
       <p>Discover interesting facts about any name!</p>
       
       <form onSubmit={handleSubmit}>
